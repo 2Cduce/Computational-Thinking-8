@@ -1,0 +1,7 @@
+print("what did the B say to the sushi?")
+input ()
+print("wasabi!")
+input()
+name = input("what is your name?")
+print(f"hello{name}")
+input()
