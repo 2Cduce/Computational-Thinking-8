@@ -1,2 +1,9 @@
 # Custom Dictionary Words
+alrighty
+chaoticgood
 exitonclick
+lawfulevil
+lawfulgood
+lawfullevil
+neutralgood
+soccerball
