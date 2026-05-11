@@ -6,4 +6,6 @@ lawfulevil
 lawfulgood
 lawfullevil
 neutralgood
+Pixlebackround
+Pixlefish
 soccerball
